@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="PrimePro.Models"
+                   namespace="PrimePro.Models">
+  <!--For Proposal/SO Lookup we just need to read the records-->
+  <class name="SalesOrderLookup" table="PREMIERE.PUB.Proposal" dynamic-update="false">
+    <!--
+    <composite-id name="Identifier" class="ProposalIdentifier">
+      <key-property name="Id" column="Propid" />
+      <key-property name="Revision" column="rev" />
+    </composite-id>
+    -->
+    <property name="Id"              column="Propid" />
+    <property name="Revision"        column="rev" />
+    <property name="ContractNo"      column="`sal-no`" />
+    <property name="ContractRev"     column="contractRev" />
+    <property name="AgencyId"        column="agencyId" />
+    <property name="AgencyName"      column="Name" />
+    <property name="AdvertiserId"    column="AdvtId" />
+    <property name="ProducId"        column="prodId" />
+    <property name="Status"          column="propstat" />
+    <property name="FlightDateBegin" column="`Flight-Begin`" />
+    <property name="FlightDateEnd"   column="`Flight-End`"/>
+
+  </class>
+</hibernate-mapping>

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace PrimePro.Models
 {
-    public class Class1
+    class AgencyLookup
     {
+        public virtual int? AgencyId { get; set; }
+        public string AgencyName { get; set; }
     }
 }

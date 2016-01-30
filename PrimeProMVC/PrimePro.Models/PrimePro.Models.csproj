@@ -34,6 +34,7 @@
       <HintPath>..\..\..\..\TFS\NAP\lib\NHibernate\NHibernate.3.3.3.SP1\NHibernate.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -42,8 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="AgencyLookup.cs" />
+    <Compile Include="SalesOrderLookup.cs" />
+    <Compile Include="Dialect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Mappings\SalesOrderLookup.hbm..xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Mappings\AgencyLookup.hbm.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

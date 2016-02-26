@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Dormouse.Core">
+      <HintPath>..\..\..\..\TFS\NAP\lib\Dormouse.Core\Dormouse.Core.2.0.0.0\Dormouse.Core.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -39,8 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ISalesOrderTasks.cs" />
+    <Compile Include="SalesOrderTasks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PrimePro.Models\PrimePro.Models.csproj">
+      <Project>{4dafa511-0a41-49a4-8147-c1e3ac8783bf}</Project>
+      <Name>PrimePro.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PrimePro.Persistence\PrimePro.Persistence.csproj">
+      <Project>{3c17ee04-931c-4483-ac5d-bb25ba681aef}</Project>
+      <Name>PrimePro.Persistence</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,0 +1,14 @@
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\bin\Debug\PrimePro.Test.Integration.dll.config
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\bin\Debug\PrimePro.Test.Integration.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\bin\Debug\PrimePro.Test.Integration.pdb
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\bin\Debug\Dormouse.Core.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\bin\Debug\PrimePro.Models.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\bin\Debug\PrimePro.Persistence.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\bin\Debug\PrimePro.Tasks.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\bin\Debug\NHibernate.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\bin\Debug\PrimePro.Models.pdb
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\bin\Debug\PrimePro.Persistence.pdb
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\bin\Debug\PrimePro.Tasks.pdb
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\obj\Debug\PrimePro.Test.Integration.csprojResolveAssemblyReference.cache
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\obj\Debug\PrimePro.Test.Integration.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Integration\obj\Debug\PrimePro.Test.Integration.pdb

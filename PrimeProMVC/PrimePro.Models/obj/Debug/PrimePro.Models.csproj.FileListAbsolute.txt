@@ -1,0 +1,5 @@
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Models\bin\Debug\PrimePro.Models.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Models\bin\Debug\PrimePro.Models.pdb
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Models\bin\Debug\NHibernate.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Models\obj\Debug\PrimePro.Models.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Models\obj\Debug\PrimePro.Models.pdb

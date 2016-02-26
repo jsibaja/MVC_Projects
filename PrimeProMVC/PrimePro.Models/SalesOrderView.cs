@@ -8,7 +8,7 @@ using System.ComponentModel;
 
 namespace PrimePro.Models
 {
-    public class SalesOrderLookup
+    public class SalesOrderView
     {
         public virtual int? Id { get; set; }
         public int Revision { get; set; }
@@ -30,6 +30,6 @@ namespace PrimePro.Models
         public string VirtualStatus { get; set; }
         public bool Restricted { get; set; }
         public decimal TotalGross { get; set; }
-        public virtual AgencyLookup Agency { get; set; }
+        public virtual AgencyView Agency { get; set; }
     }
 }

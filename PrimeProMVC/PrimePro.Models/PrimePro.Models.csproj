@@ -43,16 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AgencyLookup.cs" />
-    <Compile Include="SalesOrderLookup.cs" />
+    <Compile Include="AgencyView.cs" />
+    <Compile Include="SalesOrderView.cs" />
     <Compile Include="Dialect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Mappings\SalesOrderLookup.hbm..xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Mappings\AgencyLookup.hbm.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

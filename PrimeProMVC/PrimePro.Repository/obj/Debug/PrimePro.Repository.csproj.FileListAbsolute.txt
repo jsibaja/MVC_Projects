@@ -1,0 +1,9 @@
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Repository\bin\Debug\PrimePro.Repository.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Repository\bin\Debug\PrimePro.Repository.pdb
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Repository\bin\Debug\Dormouse.Core.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Repository\bin\Debug\PrimePro.Models.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Repository\bin\Debug\NHibernate.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Repository\bin\Debug\PrimePro.Models.pdb
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Repository\obj\Debug\PrimePro.Repository.csprojResolveAssemblyReference.cache
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Repository\obj\Debug\PrimePro.Repository.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Repository\obj\Debug\PrimePro.Repository.pdb

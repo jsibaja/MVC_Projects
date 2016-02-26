@@ -1,0 +1,5 @@
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Unit\bin\Debug\PrimePro.Test.Unit.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Unit\bin\Debug\PrimePro.Test.Unit.pdb
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Unit\obj\Debug\PrimePro.Test.Unit.csprojResolveAssemblyReference.cache
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Unit\obj\Debug\PrimePro.Test.Unit.dll
+E:\vsprojects\MVC_Projects\PrimeProMVC\PrimePro.Test.Unit\obj\Debug\PrimePro.Test.Unit.pdb
